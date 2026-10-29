@@ -1,6 +1,6 @@
 # 🚀 **Pradeep Yadav - Portfolio Website**    
 
-🎯 **Live Demo**: [Click Here](https://pradeepyadav.info/)  
+🎯 **Live Demo**: [Click Here](https://pyadav.xyz/)  
 
 📌 **GitHub Repo**: [Portfolio Repository](https://github.com/devopspradeepyadav/portfolio.git)  
 
@@ -84,7 +84,7 @@ const resumeUrl = "/documents/Pradeep.pdf";
 ---
 
 ## 📬 **Contact Me**  
-💼 **Portfolio**: [pradeepyadav.info](https://pradeepyadav.info/)  
+💼 **Portfolio**: [pyadav.xyz](https://pyadav.xyz/)  
 📧 **Email**: [ ](mailto:devopyadav@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/pullpy](https://linkedin.com/in/pullpy)  
 🐙 **GitHub**: [github.com/devopspradeepyadav](https://github.com/devopspradeepyadav)  

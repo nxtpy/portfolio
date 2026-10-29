@@ -13,9 +13,9 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['pradeepyadav.info']
+    allowedHosts: ['pyadav.xyz']
   },
   preview: {
-    allowedHosts: ['pradeepyadav.info']
+    allowedHosts: ['pyadav.xyz']
   }
 })

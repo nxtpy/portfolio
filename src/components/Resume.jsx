@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const RESUME_URL = "/documents/Pradeep Resume Aug 2025.pdf";
+const RESUME_URL = "/documents/PradeepResumeAug2025";
 
 const Resume = () => {
   const [resumeData, setResumeData] = useState(null);

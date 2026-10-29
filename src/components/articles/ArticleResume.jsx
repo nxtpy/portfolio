@@ -1,7 +1,7 @@
 import React from "react";
 
 const Resume = () => {
-  const resumeUrl = "/documents/Pradeep Resume Aug 2025.pdf";
+  const resumeUrl = "/documents/PradeepResumeAug2025.pdf";
 
 
   return (
